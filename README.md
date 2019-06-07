@@ -201,3 +201,7 @@ angular.module('MainView', [])
 
 
 ``` 
+
+Después de las modificaciones realizadas al dar clic nuevamente en Visit App URL, podrá ver la pagina web con la invocación de la API publicada en API Connect.
+
+<img width="600" alt="25" src="https://user-images.githubusercontent.com/50923637/59110582-0f892a00-8905-11e9-89f8-88982b7ecf9c.png">
